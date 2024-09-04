@@ -41,7 +41,3 @@ def task():
 
 if __name__ == "__main__":
     task()
-
-git remote add origin https://github.com/Prateekbh2003/To--Do-list.git
-git branch -M main
-git push -u origin main
